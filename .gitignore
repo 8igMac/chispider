@@ -1,2 +1,4 @@
-env/
+chispider/
 cna_news.json
+.ipynb_checkpoints/
+test.ipynb
