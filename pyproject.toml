@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "chispider"
+version = "0.1.0"
+description = "A chinese new miner."
+authors = ["michael <michaelshih123@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Scrapy = "^2.5.0"
+pymongo = "^3.11.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
